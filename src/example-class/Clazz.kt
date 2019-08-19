@@ -1,4 +1,4 @@
-package exampleclass
+package `example-class`
 
 class Test(val name: String, val ml: Int)
 data class Test1(val name: String, val ml: Int)

@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcb017c9-3cc4-41dc-a12e-f0fcc033c2df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exampleclass/Clazz.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exampleclass/Constructor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Lambda.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/resources-kt/META-INF/resources-kt.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources-kt/META-INF/resources-kt.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/exampleclass/ClazzKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/exampleclass/ConstructorKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/exampleclass/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/exampleclass/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/exampleclass/TestC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/exampleclass/TestC1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/exampleclass/TestC2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exampleclass/Clazz.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/example-class/Clazz.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exampleclass/Constructor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/example-class/Constructor.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,41 +64,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.exampleclass.ConstructorKt">
-    <configuration name="exampleclass.ClazzKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.lambdas.LambdaKt">
+    <configuration name="example-class.ClazzKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="resources-kt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="exampleclass.ClazzKt" />
+      <option name="MAIN_CLASS_NAME" value="example-class.ClazzKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exampleclass.ConstructorKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="example-class.ConstructorKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="resources-kt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="exampleclass.ConstructorKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="functions.InfixKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="resources-kt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="functions.InfixKt" />
+      <option name="MAIN_CLASS_NAME" value="example-class.ConstructorKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -122,13 +117,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lambdas.LambdaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="resources-kt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="lambdas.LambdaKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.exampleclass.ConstructorKt" />
-        <item itemvalue="Kotlin.exampleclass.ClazzKt" />
+        <item itemvalue="Kotlin.lambdas.LambdaKt" />
+        <item itemvalue="Kotlin.example-class.ConstructorKt" />
+        <item itemvalue="Kotlin.example-class.ClazzKt" />
         <item itemvalue="Kotlin.functions.ParameterKt" />
         <item itemvalue="Kotlin.functions.UnitKt" />
-        <item itemvalue="Kotlin.functions.InfixKt" />
       </list>
     </recent_temporary>
   </component>
@@ -147,6 +155,8 @@
       <workItem from="1563815025495" duration="12067000" />
       <workItem from="1563892044564" duration="15974000" />
       <workItem from="1565572793105" duration="2020000" />
+      <workItem from="1566177072918" duration="51000" />
+      <workItem from="1566177147402" duration="5406000" />
     </task>
     <servers />
   </component>
@@ -158,7 +168,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

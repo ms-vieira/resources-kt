@@ -1,4 +1,4 @@
-package exampleclass
+package `example-class`
 
 class TestC {
 
