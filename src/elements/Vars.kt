@@ -1,7 +1,7 @@
 package elements
 
 fun main () {
-    //Declarações
+    //Declara??es
     val a: Int = 33.dec()
     var b: String = a.toString()
     println("Int: $a")

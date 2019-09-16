@@ -2,7 +2,7 @@ package functions
 
 class Product(val name: String, val price: Double)
 
-//Função infix
+//Fun??o infix
 infix fun Product.moreExpensive(product: Product):Boolean = this.price > product.price
 
 fun main() {
