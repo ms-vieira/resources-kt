@@ -2,42 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcb017c9-3cc4-41dc-a12e-f0fcc033c2df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0cf79bfe7769644cc6349cfd9d36cc186033a0c9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4e3842ee908490c06207d31ce8ae71f73bbf9df4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e85601a0a8e7319736a8798c38e6c58e5013479" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e98fd9ef0d0a501a8813fd413497cd6ec1595592" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clas/Constructor.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clas/DataClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clas/GettersSetters.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/421ddec05685a3139ba1502e18e34eafd442394f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clas/EnumClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Lambdass.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/resources-kt/META-INF/resources-kt.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources-kt/META-INF/resources-kt.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/elements/CommentsKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/elements/FirstProgramKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/elements/FunctionsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources-kt/elements/FunctionsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/example-class/ClazzKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/example-class/ConstructorKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/example-class/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/example-class/Test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/example-class/TestC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/example-class/TestC1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/example-class/TestC2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/lambdas/LambdaKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources-kt/lambdas/LambdaKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/elements/Comments.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/elements/FirstProgram.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/elements/Vars.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/elements/Vars.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/elements/functions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/elements/functions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example-class/Clazz.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example-class/Constructor.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functions/Infix.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/functions/Infix.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/clas/GettersSettersKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources-kt/clas/GettersSettersKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/loop/CommandKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources-kt/loop/CommandKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loop/Command.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/Command.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -76,7 +66,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.clas.GettersSettersKt">
+  <component name="RunManager" selected="Kotlin.lambdas.LambdassKt">
     <configuration name="clas.ConstructorKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="resources-kt" />
       <option name="VM_PARAMETERS" />
@@ -103,6 +93,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="clas.EnumClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="resources-kt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="clas.EnumClassKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="clas.GettersSettersKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="resources-kt" />
       <option name="VM_PARAMETERS" />
@@ -116,27 +119,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="functions.InfixKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="lambdas.LambdassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="resources-kt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="functions.InfixKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lambdas.LambdaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="resources-kt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="lambdas.LambdaKt" />
+      <option name="MAIN_CLASS_NAME" value="lambdas.LambdassKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -144,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.lambdas.LambdassKt" />
+        <item itemvalue="Kotlin.clas.EnumClassKt" />
         <item itemvalue="Kotlin.clas.GettersSettersKt" />
         <item itemvalue="Kotlin.clas.ConstructorKt" />
         <item itemvalue="Kotlin.clas.DataClassKt" />
-        <item itemvalue="Kotlin.functions.InfixKt" />
-        <item itemvalue="Kotlin.lambdas.LambdaKt" />
       </list>
     </recent_temporary>
   </component>
@@ -176,6 +166,7 @@
       <workItem from="1567975262448" duration="1093000" />
       <workItem from="1568558768494" duration="23000" />
       <workItem from="1568558819569" duration="7196000" />
+      <workItem from="1568812281244" duration="16003000" />
     </task>
     <servers />
   </component>

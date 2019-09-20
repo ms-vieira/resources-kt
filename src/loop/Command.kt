@@ -24,6 +24,6 @@ fun main() {
 
     //for list
     val people = arrayListOf("P 1", "P 2", "P 3.")
-    for ((indice, people) in people.withIndex())
-        println("$indice - $people")
+    for ((index, people) in people.withIndex())
+        println("$index - $people")
 }
