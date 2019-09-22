@@ -2,12 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcb017c9-3cc4-41dc-a12e-f0fcc033c2df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/clas/EnumClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/Lambdass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/2/12540d9d6aa63388cf0934a094767329545edd05" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3aa8c310c41d8fc39f052e498d12986fd61a81ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c49ceb65e4b1b9d58f64e0a4f606493bef86a83" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/5/45ccd3c0accc00c180094e27f825b023560a2bea" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5d567c52b9d9fb83af674ca8b3841452720ff01f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/2/72fc484cbf5fc9775f45973f7014680070b4acc7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/94ce79ea79c42aa62538b543b46b7ed1c2fd8c15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f728123d0b50f121ddab994a314b33d890098d6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aa917a0e74113ad62fe92170e269d77acfe8de27" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/ac0fa2f87a8d963ce2a963c3a63a072146b60ea4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b004204a6e791955a497ff4fac78372ede4aefb1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bd54a8e30b30b82308eecc3634d43f451031403f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c0f6ca14f03477ec4f2b5d2050a0ee00cdab6a7f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/LambdasThree.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/LambdasTwo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/3/1322bfc4d8e1c8dff17df3303d2a5bce40c09454" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/3/1322bfc4d8e1c8dff17df3303d2a5bce40c09454" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/resources-kt/META-INF/resources-kt.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources-kt/META-INF/resources-kt.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/clas/GettersSettersKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources-kt/clas/GettersSettersKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/loop/CommandKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources-kt/loop/CommandKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/Command.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/Command.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/lambdas/Calc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/lambdas/LambdaKt$main$$inlined$sortedBy$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/lambdas/LambdaKt$main$$inlined$sortedBy$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/lambdas/LambdaKt$main$$inlined$sortedBy$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/lambdas/LambdaKt$main$sum$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/lambdas/LambdaKt$main$total$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/lambdas/LambdaKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/lambdas/LambdassKt$main$$inlined$sortedBy$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/lambdas/LambdassKt$main$$inlined$sortedBy$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/lambdas/LambdassKt$main$$inlined$sortedBy$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/lambdas/LambdassKt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/lambdas/LambdassKt$main$Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/lambdas/LambdassKt$main$Students.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/lambdas/LambdassKt$main$sub$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/lambdas/LambdassKt$main$sum$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/lambdas/LambdassKt$main$tot$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/lambdas/LambdassKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/lambdas/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources-kt/lambdas/Students.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdas/Lambda.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdas/Lambdass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/LambdasOne.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +101,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.lambdas.LambdassKt">
+  <component name="RunManager" selected="Kotlin.lambdas.LambdasThreeKt">
     <configuration name="clas.ConstructorKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="resources-kt" />
       <option name="VM_PARAMETERS" />
@@ -75,19 +110,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="clas.ConstructorKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="clas.DataClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="resources-kt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="clas.DataClassKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -119,14 +141,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lambdas.LambdassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="lambdas.LambdasOneKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="resources-kt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="lambdas.LambdassKt" />
+      <option name="MAIN_CLASS_NAME" value="lambdas.LambdasOneKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lambdas.LambdasThreeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="resources-kt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="lambdas.LambdasThreeKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -134,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.lambdas.LambdassKt" />
+        <item itemvalue="Kotlin.lambdas.LambdasThreeKt" />
+        <item itemvalue="Kotlin.lambdas.LambdasOneKt" />
         <item itemvalue="Kotlin.clas.EnumClassKt" />
         <item itemvalue="Kotlin.clas.GettersSettersKt" />
         <item itemvalue="Kotlin.clas.ConstructorKt" />
-        <item itemvalue="Kotlin.clas.DataClassKt" />
       </list>
     </recent_temporary>
   </component>
@@ -167,6 +202,7 @@
       <workItem from="1568558768494" duration="23000" />
       <workItem from="1568558819569" duration="7196000" />
       <workItem from="1568812281244" duration="16003000" />
+      <workItem from="1569086003741" duration="3445000" />
     </task>
     <servers />
   </component>

@@ -9,3 +9,9 @@ E
 src/clas/EnumClass.kt,3/8/386d8fd1d5781ece4d628300a7fd0381df1a5dd8
 G
 src/lambdas/Lambdass.kt,1/3/1322bfc4d8e1c8dff17df3303d2a5bce40c09454
+G
+src/clas/Constructor.kt,5/d/5d567c52b9d9fb83af674ca8b3841452720ff01f
+E
+src/clas/DataClass.kt,9/f/9f728123d0b50f121ddab994a314b33d890098d6
+J
+src/clas/GettersSetters.kt,4/5/45ccd3c0accc00c180094e27f825b023560a2bea
