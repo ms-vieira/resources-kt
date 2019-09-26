@@ -1,6 +1,4 @@
 
-E
-src/lambdas/Lambda.kt,5/e/5e85601a0a8e7319736a8798c38e6c58e5013479
 D
 src/elements/Vars.kt,e/9/e98fd9ef0d0a501a8813fd413497cd6ec1595592
 C
@@ -8,10 +6,14 @@ C
 E
 src/clas/EnumClass.kt,3/8/386d8fd1d5781ece4d628300a7fd0381df1a5dd8
 G
-src/lambdas/Lambdass.kt,1/3/1322bfc4d8e1c8dff17df3303d2a5bce40c09454
-G
 src/clas/Constructor.kt,5/d/5d567c52b9d9fb83af674ca8b3841452720ff01f
 E
 src/clas/DataClass.kt,9/f/9f728123d0b50f121ddab994a314b33d890098d6
 J
 src/clas/GettersSetters.kt,4/5/45ccd3c0accc00c180094e27f825b023560a2bea
+I
+src/collections/Matrix.kt,a/1/a10bf7e743c092f023028209ecccd576637c2ee7
+F
+src/collections/Map.kt,d/d/dd1dbb05de66cb7048e9e84faa5d996c535d0f7f
+F
+src/collections/Set.kt,5/9/59fc095c7f75a337bf2d88bf670f62936f614b0a

@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcb017c9-3cc4-41dc-a12e-f0fcc033c2df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/collections/ArrayOne.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/ArrayTwo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/Matrix.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Collection.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/Map.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/resources-kt/META-INF/resources-kt.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources-kt/META-INF/resources-kt.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/Set.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/Set.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,20 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.collections.MatrixKt">
-    <configuration name="collections.ArrayOneKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="resources-kt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="collections.ArrayOneKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.collections.MapKt">
     <configuration name="collections.ArrayTwoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="resources-kt" />
       <option name="VM_PARAMETERS" />
@@ -88,6 +72,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="collections.ArrayTwoKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="collections.MapKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="resources-kt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="collections.MapKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,14 +103,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lambdas.LambdasThreeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="collections.SetKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="resources-kt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="lambdas.LambdasThreeKt" />
+      <option name="MAIN_CLASS_NAME" value="collections.SetKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -134,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.collections.MapKt" />
+        <item itemvalue="Kotlin.collections.SetKt" />
         <item itemvalue="Kotlin.collections.MatrixKt" />
         <item itemvalue="Kotlin.loop.CollectionKt" />
         <item itemvalue="Kotlin.collections.ArrayTwoKt" />
-        <item itemvalue="Kotlin.collections.ArrayOneKt" />
-        <item itemvalue="Kotlin.lambdas.LambdasThreeKt" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +165,8 @@
       <workItem from="1568558819569" duration="7196000" />
       <workItem from="1568812281244" duration="16003000" />
       <workItem from="1569086003741" duration="11651000" />
+      <workItem from="1569355676918" duration="597000" />
+      <workItem from="1569503158668" duration="1784000" />
     </task>
     <servers />
   </component>
